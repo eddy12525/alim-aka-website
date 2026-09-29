@@ -92,8 +92,9 @@ p { margin: 0 0 1em; }
   background:
     radial-gradient(900px 500px at 85% 20%, rgba(255,122,26,.22), transparent 60%),
     radial-gradient(700px 400px at 0% 100%, rgba(255,178,26,.10), transparent 60%),
-    linear-gradient(90deg, rgba(17,19,23,.96) 0%, rgba(17,19,23,.82) 45%, rgba(17,19,23,.35) 100%),
-    url("https://d8j0ntlcm91z4.cloudfront.net/user_33ssrJLVZG83swLBpvJ2uYmKF05/hf_20260929_193215_667eb3e6-e259-4b02-90ae-8c1b97e02d48.png") center / cover no-repeat,
+    linear-gradient(90deg, rgba(17,19,23,.97) 0%, rgba(17,19,23,.85) 40%, rgba(17,19,23,.55) 100%),
+    linear-gradient(0deg, rgba(17,19,23,.9) 0%, transparent 35%),
+    url("https://d8j0ntlcm91z4.cloudfront.net/user_33ssrJLVZG83swLBpvJ2uYmKF05/hf_20260929_193858_9eaacfce-2d87-4eb2-b979-3c869ef7c615.png") right center / cover no-repeat,
     var(--bg);
 }
 .hero-bg::after {
